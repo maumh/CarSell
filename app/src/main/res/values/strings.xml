@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarSell</string>
+    <string name="car_list_url">/api/v1/cars?page=</string>
+</resources>
